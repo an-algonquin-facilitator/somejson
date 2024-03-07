@@ -1,0 +1,17 @@
+[
+  {
+    "brand": "Toyota",
+    "model": "Camry",
+    "price": 25000
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "price": 27000
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "price": 35000
+  }
+]
